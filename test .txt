@@ -1,0 +1,681 @@
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000494.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/small (15).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/b126dc8ae3287f19c.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c1060687168ff6914.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/e1d04e9ecee0cf8ef.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/1087.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2878).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/106 - Copy.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/41ac073cc61709558.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (432).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1473).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (176).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1538).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/e1338bd02d2387dee.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/26f50b38c60ea2d9.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1843).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/5f1a62b92753c988.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/small (124).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/f113b5059a0e4a350.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000597.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/51f2d9913af2833a9.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/2119921b6b2abdf23.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c1e07a8df524a268d.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (433).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/01fe6bd40b9b31861.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/3198c89136032c4c0.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/0132574d44d9a96de.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/76.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (469).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (686).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2593).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/78dd7745cdd0a5cb.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/016a465c2a232b4b5.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (247).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (425).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/151c7597b15bb428.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2108).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1595).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2973).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2102).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/b1c0650e005262660.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/41cf6d3b7ac31d2c.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2721).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/01a8ab3f65ad3b6a6.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1476).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1778).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/3587d59b214a2adb.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1991).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/2151f2f6a0ebea0ea.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/5006f6ce40142eea.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/b1e5e311b5e9e60c4.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (364).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (25).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/d10d986755dfbd2e6.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/514ff4cf7b7550e12.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (851).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/216820c477e9da109.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/21bf68b8b2ed98310.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/71bd1011f5e84e8b8.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/0f22eaf0d420239f.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (236).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (389).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (121).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/713c37c8d640af374.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/e1ac3cae453aed59f.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (341).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2441).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/26.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1086).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/108 - Copy.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/f0a03e81e13bdab1.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000303.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010001205.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (146).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/917d83ba721da8803.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/small (29).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (307).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c19ce9828ff4577ec.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/small (55).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c1efac15e9d9bd25c.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/91f0d4579cb0cb64f.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/581.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/11efe34a2e833a024.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/pic (217).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/015a7a5b042419839.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000817.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/21c654a42e1ff3e3d.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2774).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/117ad182c08cd35c2.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/004eb6ca27183afe.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2520).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1311).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010001436.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1180).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/851.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/1181342ceddd1b11f.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1045).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1001).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/56 - Copy.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000380.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/i1mage42.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/814.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a1d090ed2e730061c.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/b19b7fa7122b0f2b2.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (169).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000871.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/d1eb38df0ec90443e.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/320.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/314dd3f0270e95d01.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/21918ff286008d8fe.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2825).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/86b762b3d1bb8506.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/482.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1329).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2801).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/f15ee6c9926ea50d7.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000543.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/i1mage4.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2474).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c1f842a105b25b02d.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1817).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/1.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/016b007683a116832.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2780).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1732).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (594).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (869).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1618).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1087).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/81848f8ed7b7dd79e.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/5100d185bee9ea0fe.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/b1d2637bcbe84c55e.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (332).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2805).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (683).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2811).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/41a26b8d8f5d7c728.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a1e3c34de6c1b737c.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2824).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/1156d83ce3b4f1375.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1223).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000969.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/01209f11cc23fd47e.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/13cef2ee3c4e0973.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2573).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1657).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (768).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1854).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/31ed6ec4b1a846f92.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/613e9f08480ef04a8.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (328).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1633).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a1367302127012d04.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2204).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2154).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/i1mage22.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/small (120).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (405).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/b1af82593237054e9.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/small (41).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/01292f223183b9bbc.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (10).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (697).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2031).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/3177a94386cdd0e72.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/84025b05f78cd4fe.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/004dec94c5de631f.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1797).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2965).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2146).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000715.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/012026c76bde7e6ea.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a18b40a6107de9cb3.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2232).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/23d49c1d550c4c8b.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1558).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/869.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (798).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1066).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2926).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/23 - Copy.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1641).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (391).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000873.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2648).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (101).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2227).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/558b45e62f32d4fa.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/654.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (195).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2739).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000595.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000039.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1211).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (52).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1187).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/77.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1051).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/1185.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2327).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2231).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/i1mage121.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (278).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000706.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1396).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2211).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/01cdd0ec962783d23.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/f1fbccc119e26e349.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1876).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2625).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/9322f99da2916483.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (118).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2581).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/2a9ca7bbcb1fd6bf.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1620).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000297.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1096).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2945).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (129).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (70).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (397).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/i1mage64.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/411e625817972e836.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/490.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/e1194209276dc796c.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010001263.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1575).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/754.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/pic (12).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/8696289e290cb91a.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (285).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/6159463af53a1070d.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/252.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1895).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/292.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1890).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/f842b61569b8dba7.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/e1179eb757fa79e9b.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1553).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000824.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/e185082d1552019d6.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/917f0f0c069dca0c1.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/pic (45).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1500).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (177).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (733).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (430).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/164.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1544).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1123).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/205.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/139.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (27).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/815ab0404f8c73897.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (670).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1116).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000251.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/b7aebc8d24bd72aa.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (77).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (631).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/ca76256f3c696307.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2754).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c78d74060842b8f0.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (2).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000112.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2589).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010001064.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2742).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/27 - Copy.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (735).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/i1mage162.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/325.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (848).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/332.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (850).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/6a0b3d4dc379efc0.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1132).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/small (123).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/71be0cc9efd6bfce2.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/0163e222536989bc2.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (241).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/15 - Copy.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2985).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (170).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/72e9c0e190d5f015.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000403.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/01fc4752bdc216157.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010002078.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c60266f1afd900c2.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (95).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2098).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/small (118).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2105).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/82971bd0c5e012cc.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/1296.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1193).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2011).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1177).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/11ff4c350693df2f0.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1038).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1583).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/9d7de09d2f5fe613.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2134).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/b123a55b154e471c9.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1704).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/f1def85af75163ceb.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/pic (114).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (643).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1495).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/0166ec677e8e1f405.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/pic (204).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (547).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2164).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1561).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/i1mage55.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/3afade0f14091716.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (109).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/41db34aaac2f48ada.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000580.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/114394b8a8fadd0ce.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (552).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/e1a757e85b8e38f9e.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (83).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/small (37).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (461).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/71db8bc3b77fe137.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (783).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/1051.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c08c240cded9c858.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c1c2cab830173b4f2.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1007).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/e57574535eb7054a.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1220).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1658).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/d1cc3300a93144395.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/983.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/e14a061257a9e8048.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (563).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (832).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1089).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (487).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (392).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/91e2e2c64173578bc.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (113).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/d10a1f34e960a389e.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1161).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/i1mage183.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1733).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a19204cfd7803df96.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000613.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (564).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/i1mage171.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/0178bf4dad010105e.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/19 - Copy.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/51431b5c7519182cb.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/01b261b614f40b559.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/015495f53f7872c78.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (837).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2338).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/2821256df3efd008.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2546).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2683).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2460).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a16a6686989134040.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c2a0f81064f0b92a.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (919).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/b493f79098b1ac02.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/1130.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/5fb1779480f31a71.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/5870742ea2f5703b.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/3139162c494ae3a4f.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/813253eabd046f233.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2096).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/7107de0cce3fe5aab.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/69.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1041).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (7).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/2189509f4b8a1fd3c.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (710).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/i1mage92.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2473).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2486).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000527.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/pic (23).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1584).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/015b775285c85478a.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/small (87).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2055).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/f1589a533207de3dc.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/d1002a3e81f1ed66f.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1578).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/214a4d0823bb74ffe.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2263).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2420).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c1ff8b68151cc29fb.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/24e933e136a16790.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/114da850bb14ad9a2.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/b199ef92e53ad9523.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/i1mage175.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/1116d2d8c5ac98696.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2979).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (592).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (53).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1088).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2220).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a19e574e4972daec1.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (464).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (67).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (221).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/210bd3a088ea6940e.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (590).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/524.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/1067.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2564).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/25 - Copy.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/31dff82202a07c3b1.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/61609e88113885226.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/319d43579baadbcbe.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/pic (205).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/15668e3075e27fb9.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/708.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/563.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010e5eb7fe4a2db73.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/672.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/3820af22afaa632b.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000030.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/6107ee80e7e79f829.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (515).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2655).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/dfc79ecda60183d6.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/419ffd4eb496e4f1b.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (530).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/61f6eff63c57ebe26.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1671).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1337).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1867).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/01fa99ecd00d7dc3e.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (136).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1150).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000040.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/423.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a1432ab1bb853203c.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (880).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2834).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (776).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (747).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2769).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/4169d7de51ae887f1.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2457).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1218).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (789).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/b144ea95ebd480317.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2047).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/small (114).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1711).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/189.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/b1e4bfa9c9b280b79.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1263).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/934.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/small (24).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1265).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1242).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2500).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/6f5df9b34a0250cc.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a19e4a046b9b5a6a2.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2228).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000882.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000183.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/81defc0ef9dbf36e8.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (691).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1862).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (316).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/585.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c7051a4a6a4c3f3d.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/1cdb986cd69f46f5.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/3179de4723c254868.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1782).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010001115.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (94).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/617d22e10795081ab.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/11f2872171cb8aaa3.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (889).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1758).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/044b569c3ba18575.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/01137710960addb4e.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/b1e11c3b8a57df0d0.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/0141840d55ff267e8.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/8e3eab9ad91b2188.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (413).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/850.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (465).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (112).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000353.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1240).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000479.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/979.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1064).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/01086938796aa629e.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/e19b781944b676783.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/01c4ef283cb2d7be0.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (303).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/1c599c9c4959e24b.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/1119.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/49 - Copy.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (333).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1067).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2382).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/1297.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (57).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/73 - Copy.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (626).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/271.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1873).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a777fb97b76323b8.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000478.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2161).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/d1e5320b1020df59.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/272.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2408).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/1186a91351f7562d3.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/91354b04bdb52d6d1.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c2f960886f322b02.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/e7cf574790aaa718.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a196929cd15c990c4.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/f1b1743d8342429e4.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1369).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/31c2ffb9c8b1bdd14.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2316).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2351).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/839.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/39.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/31ddb0757d0b9c1db.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1549).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/006fb86aed487201.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2791).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/817bf5bac389f11bf.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/0116b5f83fab09c7b.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a1334a54004eb46c8.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/041d87b6266faa8e.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2971).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/ee8380435d02a6e3.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/i1mage52.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/71c8ae1c465351c17.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1426).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/039f27ac12c793bb.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/317babab3a01e1793.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (667).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/11a65e2b61a31b040.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/d1f982067fac35d9f.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/01faa5a31d794adf6.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2601).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a22a7d2e4292c94e.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (80).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000125.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/51328f2d73b766942.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2891).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/012e3e9a3bdeae9fb.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c1a21c0cad5e6d6f6.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/3124689940d8c72c6.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (557).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/413f520f2eb946d80.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/9 - Copy.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2020).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a1ba5abb67153a75a.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000630.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1043).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1324).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/i1mage170.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (227).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/01fa39bdc62b837c5.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/603.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2633).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/pic (139).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/314b1bdce5453e81b.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (62).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a170ef5666bb3e2aa.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2822).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (882).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2974).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c1d4b09851ad2e6b6.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1836).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/6927860e7000e8e6.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (556).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/01d0d6c02673fbd13.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/bc826910298a5816.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (16).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1648).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/833.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/596.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (817).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/21f9a340aa2a83a7d.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2021).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/91682a451131d68f1.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/pic (215).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/d17965e7c535ec847.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010001246.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000612.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/img (145).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000806.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2268).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/557.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (193).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (212).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/b192087a934360927.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1650).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a13e37fa1911834d7.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/ab80de5a58b9ccd0.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (576).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2543).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010001632.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/61b536944cfb19ba8.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2759).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/176.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1767).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1453).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/60a715433ef7ba49.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/i1mage8.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (34).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a12224af979b8dd19.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/5179de1e3ff1b25f4.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/e18d312530b1904a7.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/51c6e42a9beb49dc3.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/419fc84cec7dc78b4.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/small (28).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1855).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/71166723247707e59.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/11324b1fa02dd5139.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/0134b403bfcbc4c3e.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000242.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/small (109).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/41ce628b988edd438.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/5132bd290286d395c.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/7bc9a81e0d59bb93.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c15d75f6aec23402a.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (568).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2606).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (444).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/91332de65a11104ac.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/119dac3dd17656298.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2182).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (365).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (47).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/61f62647ae4b95b21.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/4124bfe317f370bf0.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/e53a44b16a41afb5.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/41a9ae00ab6a991a8.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/938ba42e8411c4c1.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/31c82014298dfcba3.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/7103e4a8e5189b11b.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1383).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1821).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/91f7c4835ce513a68.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/a1f986c1bcc8cef10.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/i1mage130.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000370.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2107).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010001033.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2446).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2214).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2292).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (474).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (54).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/b15045995f9e1e6a0.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/116f0e6361ab6bc49.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1938).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (39).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c15ed95fb500181b6.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/small (81).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/0106165f00fc70180.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (599).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/ee24d9e28181773a.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (2994).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (1715).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (411).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/d1d7cf56e09c78621.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/2026123fa11b1885.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/armas (272).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/pic (77).jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/010000519.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/c1467c435cafcc196.jpg
+/content/gdrive/My\ Drive/yolo/dark/darknet/data/images/i1mage136.jpg
