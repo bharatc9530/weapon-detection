@@ -1,6 +1,9 @@
 # weapon-detection
 Pistol, Riffle and Fire detection using yolov4-tiny in videos as well as images. Training code, dataset and trained weight file available.
 
+# Colab Training
+complete project with files, dataset and save models etc..
+[Drive](https://drive.google.com/drive/folders/1-FWDmdL5FR_cjU2DXG40x6z57hInRm0t?usp=sharing)
 
 # Fire and Gun Detection
 
