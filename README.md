@@ -36,3 +36,7 @@ python yolo.py --play_video True --video_path videos/fire1.mp4
 ```
 
 [Dataset](https://www.kaggle.com/atulyakumar98/fire-and-gun-dataset)
+
+
+#### For Colab GPU Training I Use this awesome repository for setting yolo
+[Yolo](https://github.com/AlexeyAB/darknet)
