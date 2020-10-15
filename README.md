@@ -1,42 +1,61 @@
 # weapon-detection
-Pistol, Riffle and Fire detection using yolov4-tiny in videos as well as images. Training code, dataset and trained weight file available.
+Handgun, Shotgun and Knife using yolov4-tiny in videos as well as images. Training code, dataset and trained weight file available.
 
-# Colab Training
-complete project with files, dataset and save models etc..
-
-
-[Drive](https://drive.google.com/drive/folders/1-FWDmdL5FR_cjU2DXG40x6z57hInRm0t?usp=sharing)
-
-# Fire and Gun Detection
-
-![result](https://raw.githubusercontent.com/atulyakumar97/fire-and-gun-detection/master/screenshots/0.jpg "Model Output")
-
-### How to use yolo.py:
+# Dataset
 ```
-usage: yolo.py [-h] [--webcam WEBCAM] [--play_video PLAY_VIDEO]
-               [--image IMAGE] [--video_path VIDEO_PATH]
-               [--image_path IMAGE_PATH] [--verbose VERBOSE]
+  Data is Annotated using Labelme and is available in yolo format with txt files
+      ├── data
+      │    ├── obj (Train dataset)
+      │    │   ├── Knife
+      │    │   ├── Handgun
+      │    │   └── Shotgun
+      │    ├── test (Test dataset)
+      │    │   ├── Knife
+      │    │   ├── Handgun
+      │    │   └── Shotgun
+      │    ├── train.txt  (Train label)
+      │    └── test.txt   (Test label)
+```
+![DATASET](https://drive.google.com/drive/folders/1RjYdm1RRnu7htO8jXonHobFUCninJ_TC?usp=sharing)
 
-optional arguments:
-  -h, --help            show this help message and exit
-  --webcam WEBCAM       True/False
-  --play_video PLAY_VIDEO
-                        Tue/False
-  --image IMAGE         Tue/False
-  --video_path VIDEO_PATH
-                        Path of video file
-  --image_path IMAGE_PATH
-                        Path of image to detect objects
-  --verbose VERBOSE     To print statements
+
+# Pretrained yolo-tiny weights
+![Pre-train model](https://drive.google.com/file/d/1_BBqQ_ZbZkP-AbLjtqsXHPD2i2s_LLdh/view?usp=sharing)
+
+
+# Colab GPU Training
+Complete project is trained and evaluated on google colab
+![Notebook](blob/main/Train_yolo_tiny.ipynb "Notebook")
+
+
+# Knife, Handgun and Shotgun Detection
+![predictions](https://user-images.githubusercontent.com/58046531/96093247-8d8e1580-0ee9-11eb-8816-37f060223ae6.jpg "Prediction")
+
+# Important files for Training
+```
+  Training folder contain important files
+      ├── training
+      │    ├── obj.data
+      │    ├── obj.names
+      │    ├── yolov4-tiny.config
+      │    └── yolov4-tiny.conv.29  
 ```
 
-### Move inside the project folder and use the following command:
+# Training and Prediction command
 ```
-python yolo.py --play_video True --video_path videos/fire1.mp4
+ # train your custom detector! (uncomment %%capture below if you run into memory issues or your Colab is crashing)
+ # %%capture
+ └── !./darknet detector train training/obj.data training/yolov4-tiny.cfg training/yolov4-tiny.conv.29  -dont_show -map
+ 
+ # run your custom detector with this command (upload an image to your google drive to test, thresh flag sets accuracy that detection must be in order to show it)
+ ├── !./darknet detector test training/obj.data training/yolov4-tiny.cfg /mydrive/yolo/yolov4/darknet/backup/yolov4-tiny_4000.weights          /mydrive/yolo/yolov4/darknet/data/test/Knife/7bc500661f0ea2c7.jpg -thresh 0.5
+└── imShow('predictions.jpg')
 ```
 
-[Dataset](https://www.kaggle.com/atulyakumar98/fire-and-gun-dataset)
+# Convert Model to tfile for android device deloyment
+```All instruction and codes available in Given Notebook 
+   ├── tflite.ipynb
+```
 
-
-#### For Colab GPU Training I Use this awesome repository for setting yolo
+# For Colab GPU Training I Use this awesome repository for setting yolo
 [Yolo](https://github.com/AlexeyAB/darknet)
