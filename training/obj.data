@@ -1,0 +1,7 @@
+classes = 3
+train = data/train.txt
+valid = data/test.txt
+names = training/obj.names
+backup = /mydrive/yolo/yolov4/darknet/backup/
+
+
