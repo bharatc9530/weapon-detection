@@ -16,16 +16,16 @@ Handgun, Shotgun and Knife using yolov4-tiny in videos as well as images. Traini
       │    ├── train.txt  (Train label)
       │    └── test.txt   (Test label)
 ```
-![DATASET](https://drive.google.com/drive/folders/1RjYdm1RRnu7htO8jXonHobFUCninJ_TC?usp=sharing)
+[DATASET](https://drive.google.com/drive/folders/1RjYdm1RRnu7htO8jXonHobFUCninJ_TC?usp=sharing)
 
 
 # Pretrained yolo-tiny weights
-![Pre-train model](https://drive.google.com/file/d/1_BBqQ_ZbZkP-AbLjtqsXHPD2i2s_LLdh/view?usp=sharing)
+[Pre-train model](https://drive.google.com/file/d/1_BBqQ_ZbZkP-AbLjtqsXHPD2i2s_LLdh/view?usp=sharing)
 
 
 # Colab GPU Training
 Complete project is trained and evaluated on google colab
-![Notebook](blob/main/Train_yolo_tiny.ipynb "Notebook")
+[Notebook](blob/main/Train_yolo_tiny.ipynb)
 
 
 # Knife, Handgun and Shotgun Detection
