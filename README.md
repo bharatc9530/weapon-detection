@@ -25,7 +25,7 @@ Handgun, Shotgun and Knife using yolov4-tiny in videos as well as images. Traini
 
 # Colab GPU Training
 Complete project is trained and evaluated on google colab
-[Notebook](blob/main/Train_yolo_tiny.ipynb)
+[Notebook](/Train_yolo_tiny.ipynb)
 
 
 # Knife, Handgun and Shotgun Detection
@@ -49,7 +49,7 @@ Complete project is trained and evaluated on google colab
  
  # run your custom detector with this command (upload an image to your google drive to test, thresh flag sets accuracy that detection must be in order to show it)
  ├── !./darknet detector test training/obj.data training/yolov4-tiny.cfg /mydrive/yolo/yolov4/darknet/backup/yolov4-tiny_4000.weights          /mydrive/yolo/yolov4/darknet/data/test/Knife/7bc500661f0ea2c7.jpg -thresh 0.5
-└── imShow('predictions.jpg')
+ └── imShow('predictions.jpg')
 ```
 
 # Convert Model to tfile for android device deloyment
